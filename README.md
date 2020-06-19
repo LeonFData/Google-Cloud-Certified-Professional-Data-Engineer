@@ -17,5 +17,22 @@ I took this course to prepare myself for the certification exam. As google produ
 6. Practice, practice and practice. Waiting for the coming exam.
 
 # Learning Topics
-## Study cases
-1. 
+## GCP Case Studies
+1.  asdf
+## GCP Products and Services
+#### Build data structures and databases
+1. Cloud Storage
+2. Cloud SQL
+3. Cloud Bigtable
+#### Design data processing systems
+1. Cloud Dataproc
+2. Cloud Pub/Sub
+3. Cloud Dataflow
+4. Cloud Spanner
+5. Monitoring the pipelines
+#### Analyze data and enable machine learning
+1. BigQuery
+2. CLoud Dataprep
+3. Cloud ML Engine
+4. ML API's (Translate, Speech, Vision etc.)
+5. Datalab / Data Studio
