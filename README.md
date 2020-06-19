@@ -3,7 +3,7 @@
 I took this course to prepare myself for the certification exam. As google product user, I felt exciting to explore more Google Cloud's data services, excercise them on the hands-on labs and put those systems to my fulltime work as reasearch data scientist. Google cloud products improved my work efficiently at large scale data storage, data cleaning and modeling. 
 
 # My study materials ([MOOC](https://linuxacademy.com/course/google-cloud-certified-professional-data-engineer/))
-* Digital hand-written notes on Dossier [(part1)](Dossier_notes_part1.pdf) [(part2)](Dossier_notes_part2.pdf)
+* Digital hand-written notes on Dossier [(part1)](dossier_notes/Dossier_notes_part1.pdf) [(part2)](dossier_notes/Dossier_notes_part2.pdf)
 * [Course note](course_hands_on_exercises.pdf) (In-course hands-on excercises)
 * Lab Notes (Guides  with step-by-step instructions) 
 * A 12-month, $300 trial program (assess to all GCP products for free)
