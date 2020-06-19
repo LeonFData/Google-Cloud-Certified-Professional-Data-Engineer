@@ -17,6 +17,5 @@ I took this course to prepare myself for the certification exam. As google produ
 6. Practice, practice and practice. Waiting for the coming exam.
 
 # Learning Topics
-
-# Extra Topics
-* 
+## Study cases
+1. 
