@@ -18,7 +18,13 @@ I took this course to prepare myself for the certification exam. As google produ
 
 # Learning Topics
 ## GCP Case Studies
-1.  asdf
+1. [Paypal](https://cloud.google.com/customers/featured/paypal)
+    1. Glogally modernize the APP Infrastructure 
+    2. Quick data solutions with high security control
+2. [Home Depot](https://cloud.google.com/customers/featured/the-home-depot)
+    1. Cloud built APP Engine (with high security control)
+    2. Streamline data with quick analyzing with BigQuery
+    3. ML model deployment to improve customer experience 
 ## GCP Products and Services
 #### Build data structures and databases
 1. Cloud Storage
