@@ -5,7 +5,7 @@ I took this course to prepare myself for the certification exam. As google produ
 # My study materials ([MOOC](https://linuxacademy.com/course/google-cloud-certified-professional-data-engineer/))
 * Digital hand-written notes on Dossier [(part1)](dossier_notes/Dossier_notes_part1.pdf) [(part2)](dossier_notes/Dossier_notes_part2.pdf)
 * [Course notes](course_hands_on_exercises.pdf) (In-course hands-on excercises)
-* [Lab Notes](labs) (Guides  with step-by-step instructions) 
+* [Lab Notes](Labs) (Guides  with step-by-step instructions) 
 * A 12-month, $300 trial program (assess to all GCP products for free)
 
 # Study Path
