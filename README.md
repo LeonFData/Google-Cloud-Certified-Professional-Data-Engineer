@@ -27,13 +27,13 @@ I took this course to prepare myself for the certification exam. As google produ
     3. ML model deployment to improve customer experience 
 ## GCP Products and Services
 #### Build data structures and databases
-1. Cloud Storage
+1. Cloud Storage (long term, high performance for all data types)
 2. Cloud SQL
-3. Cloud Bigtable
+3. Cloud Bigtable （Managed non-relational database)
 #### Design data processing systems
-1. Cloud Dataproc
+1. Cloud Dataproc (fully managed Apache, Hadoop and Spark cluster management)
 2. Cloud Pub/Sub
-3. Cloud Dataflow
+3. Cloud Dataflow (a processing pipeline transforming stream or batch data)
 4. Cloud Spanner
 5. Monitoring the pipelines
 #### Analyze data and enable machine learning
