@@ -7,6 +7,7 @@ I took this course to prepare myself for the certification exam. As google produ
 * [Course notes](course_hands_on_exercises.pdf) (In-course hands-on excercises)
 * [Lab Notes](Labs) (Guides  with step-by-step instructions) 
 * A 12-month, $300 trial program (assess to all GCP products for free)
+* My course [Certificate](course_certificate.pdf) in Linux Academy
 
 # Study Path
 1. Since GCP has a whole bunch of services and products, I decided to go along the course videos and tried to get familiar to them quickly;
